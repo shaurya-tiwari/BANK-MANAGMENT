@@ -22,5 +22,21 @@
         "PIN": 7890,
         "AccountNumber": "3tU08(n",
         "balance": 0
+    },
+    {
+        "name": "shaurya tiwari",
+        "age": 34,
+        "email": "shaurya1230@gmail.com",
+        "PIN": 1234,
+        "AccountNumber": "%b75o8c",
+        "balance": 10000
+    },
+    {
+        "name": "Shreya",
+        "age": 25,
+        "email": "Shreyaemail.com",
+        "PIN": 1122,
+        "AccountNumber": "6&94yKj",
+        "balance": 0
     }
 ]
