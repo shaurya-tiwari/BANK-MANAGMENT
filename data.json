@@ -1,0 +1,26 @@
+[
+    {
+        "name": "kabir",
+        "age": 23,
+        "email": "kabiragent.co",
+        "PIN": 1234,
+        "AccountNumber": "1&J3yk3",
+        "balance": 0
+    },
+    {
+        "name": "shaurya",
+        "age": 23,
+        "email": "shaurya.com",
+        "PIN": 2345,
+        "AccountNumber": "1&J3yk3",
+        "balance": 0
+    },
+    {
+        "name": "Abc",
+        "age": 18,
+        "email": "test@test.com",
+        "PIN": 1122,
+        "AccountNumber": "3tU08(n",
+        "balance": 0
+    }
+]
