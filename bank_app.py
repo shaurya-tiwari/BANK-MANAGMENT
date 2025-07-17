@@ -210,3 +210,5 @@ elif menu == "Delete Account":
             st.success(res)
         else:
             st.warning("Please fill all fields.")
+
+#NOTE: pip install streamlit | THEN : streamlit run bank_app.py fr run this aap , and it will also give you a network url , which required to connect your devices from same wifi , 
