@@ -3,7 +3,7 @@
         "name": "kabir",
         "age": 23,
         "email": "kabiragent.co",
-        "PIN": 1234,
+        "PIN": "1234",
         "AccountNumber": "1&J3yk3",
         "balance": 5000
     },
@@ -11,32 +11,41 @@
         "name": "shaurya",
         "age": 23,
         "email": "shaurya.com",
-        "PIN": 2345,
-        "AccountNumber": "1&J3yk3",
-        "balance": 6500
+        "PIN": "5678",
+        "AccountNumber": "SB212656",
+        "balance": 6000
     },
     {
         "name": "taraun",
         "age": 18,
         "email": "taraun",
-        "PIN": 7890,
+        "PIN": "1122",
         "AccountNumber": "3tU08(n",
-        "balance": 0
+        "balance": 5000
     },
     {
         "name": "shaurya tiwari",
         "age": 34,
         "email": "shaurya1230@gmail.com",
-        "PIN": 1234,
+        "PIN": "1234",
         "AccountNumber": "%b75o8c",
         "balance": 10000
     },
     {
-        "name": "Shreya",
+        "name": "Shreya Tiwari",
         "age": 25,
         "email": "Shreyaemail.com",
-        "PIN": 1122,
-        "AccountNumber": "6&94yKj",
-        "balance": 0
+        "PIN": "1122",
+        "AccountNumber": "694yKj&",
+        "balance": 10000
+    },
+    {
+        "name": "Kajal Pandey",
+        "age": 24,
+        "email": "kajal@gmail.com",
+        "PIN": "8882",
+        "AccountNumber": "SB202322",
+        "balance": 9009,
+        "created_date": "2025-07-18 11:49:29"
     }
 ]
